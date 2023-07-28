@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
-| `jolly` ![jolly][jolly_repo] | `maroongold` ![maroongold][maroongold_repo] | `yeblu` ![yeblu][yeblu_repo] |
