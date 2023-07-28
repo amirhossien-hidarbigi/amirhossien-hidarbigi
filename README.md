@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning react js
-
+💻 Expertise: JavaScript, React
 
 <!--
 **amirhossien-hidarbigi/amirhossien-hidarbigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
